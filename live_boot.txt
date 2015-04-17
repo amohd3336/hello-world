@@ -1,1 +1,2 @@
 1. starup disk creator.
+2. KDE Partition Manager.
