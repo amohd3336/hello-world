@@ -1,0 +1,1757 @@
+ek server chahiye uske liye
+sudo apt-get install apache2
+fir php chahiye
+sudo apt-get install php5
+then un dono ko connect karna h
+sudo apt-get install libapache2-mod-php5
+and finally restart the server
+sudo /etc/init.d/apache2 restart
+now type localhost in your browser you will get it works
+written
+and for creating new files just type into your konsole
+cd /var/www/ and then
+sudo kate name of your file you want to make say index.php
+and then type there echo " ali is a good boy";
+before sudo kate index.php
+create a folder say ali by typing sudo mkdir ali
+and then do sudo kate
+and finally open browser and type in localhost/ali/
+Mohd Ali
+4/7, 12:53pm
+Mohd Ali
+sudo /etc/init.d/apache2 restart command not found
+Saheb Preet Singh
+4/7, 12:53pm
+Saheb Preet Singh
+apt-get install ho gya sab kuch
+Mohd Ali
+4/7, 12:54pm
+Mohd Ali
+ho gaya
+Saheb Preet Singh
+4/7, 12:54pm
+Saheb Preet Singh
+then do this sudo service apache2 restart
+Mohd Ali
+4/7, 12:58pm
+Mohd Ali
+
+Mohd Ali
+4/7, 12:59pm
+Mohd Ali
+unrecognised service
+aisa kar jab tu clg ayega tab kar lege
+Saheb Preet Singh
+4/7, 1:02pm
+Saheb Preet Singh
+nahi ruk tera kuch apdate vagarah laga h kya sath mein
+???
+sudo apt-get update kar or fir muje logs de kya a raha h
+Mohd Ali
+4/7, 1:03pm
+Mohd Ali
+update to nahi but kingsoft install kar raha tha
+Saheb Preet Singh
+4/7, 1:04pm
+Saheb Preet Singh
+kinsgsoft kya h??
+Mohd Ali
+4/7, 1:04pm
+Mohd Ali
+just like libre office
+Saheb Preet Singh
+4/7, 1:05pm
+Saheb Preet Singh
+ok linux mein ek time par ek hi software install hota h
+central system h taki dobara ek cheej install na ho or koi dependency unmet na rahe or sare user ek hi copy use kar sake baar baar install na karni pade
+fir install kariyo jab vo ho jaye
+Mohd Ali
+4/7, 1:07pm
+Mohd Ali
+wo install nhi ho raha tha ab mene use close kar diya h.
+Saheb Preet Singh
+4/7, 1:08pm
+Saheb Preet Singh
+ab try kar
+Mohd Ali
+4/7, 1:09pm
+Mohd Ali
+ab 2bara apche n php install karke dekhta hu
+Saheb Preet Singh
+4/7, 1:09pm
+Saheb Preet Singh
+ha
+manmeet bi library mein hi h dhoond le usko
+Mohd Ali
+4/7, 1:15pm
+Mohd Ali
+ok
+Saheb Preet Singh
+4/7, 1:16pm
+Saheb Preet Singh
+ho gya ??
+April 9, 2014
+Saheb Preet Singh
+4/9, 6:29pm
+Saheb Preet Singh
+hi
+April 16, 2014
+Saheb Preet Singh
+4/16, 6:07pm
+Saheb Preet Singh
+colg??
+Mohd Ali
+4/16, 6:09pm
+Mohd Ali
+yah...
+Saheb Preet Singh
+4/16, 6:10pm
+Saheb Preet Singh
+ok
+Mohd Ali
+4/16, 6:10pm
+Mohd Ali
+can u mail lcs n knapsack program ???
+Saheb Preet Singh
+4/16, 6:11pm
+Saheb Preet Singh
+lcs ka lele
+Mohd Ali
+4/16, 6:11pm
+Mohd Ali
+ok.
+Saheb Preet Singh
+4/16, 6:11pm
+Saheb Preet Singh
+knapsack ka refer to this link
+Mohd Ali
+4/16, 6:11pm
+Mohd Ali
+thanks...
+Saheb Preet Singh
+4/16, 6:11pm
+Saheb Preet Singh
+http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
+Dynamic Programming | Set 10 ( 0-1 Knapsack Problem) - GeeksforGeeks
+www.geeksforgeeks.org
+Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. In other words, given two integer arrays val[0..n-1] and wt[0..n-1] which represent values and weights associated with n items respectively. Also given an integer W which…
+May 28, 2014
+Mohd Ali
+5/28, 6:57pm
+Mohd Ali
+A message is coming While I am registering with my fb on twenty19
+Sorry. Your request could not be completed. The feature you requested for is available only for students.
+what to do
+May 30, 2014
+Saheb Preet Singh
+5/30, 5:38pm
+Saheb Preet Singh
+http://www.twenty19.com/internships/company/elucident-technocrat/web-developer1
+
+Web Developer|Internship in Elucident Technocrat | Twenty19
+www.twenty19.com
+Apply for internships - Internship Web Developer in Elucident Technocrat on Twenty19 - India's Largest internship portal for college students.
+August 1, 2014
+Saheb Preet Singh
+8/1, 2:31pm
+Saheb Preet Singh
+bhai ews ka aa gaya
+ab late mat kariyo tere phone par bhi message kar raha hu\
+August 2, 2014
+Mohd Ali
+8/2, 10:07am
+Mohd Ali
+0.k......thnks...
+August 16, 2014
+Mohd Ali
+8/16, 4:18pm
+Mohd Ali
+Plz! tell me the firefox shortcut key to analyze a web page asap......
+Saheb Preet Singh
+8/16, 5:45pm
+Saheb Preet Singh
+f12 se hota h shayad
+firefox par jyada kaam nahi kiya
+right click karke inspect element vagarah se bhi aa jayega nahi to tools me se mil jayega
+Mohd Ali
+8/16, 5:57pm
+Mohd Ali
+OMG......thanks bro....
+Saheb Preet Singh
+8/16, 5:59pm
+Saheb Preet Singh
+ews ki application dedi
+??
+kaha h colg?
+agar nahi mile tools to bata diyo
+August 28, 2014
+Mohd Ali
+8/28, 4:55pm
+Mohd Ali
+i'm giving you a link of codechef problom just tell me what will be the order of traversal. I'mtaking this for case1:1+2+2= 5 and for case2:1+2+4+3=10 .plz correct me.http://www.codechef.com/problems/SUMTRIAN
+September 2, 2014
+Mohd Ali
+9/2, 9:37pm
+Mohd Ali
+Have You seen this....https://code.google.com/codejam/apactest
+Google APAC 2015 University Graduates Test
+code.google.com
+If matching wits with coders across Asia Pacific and testing your skills on algorithmic problems sounds like fun, do not delay in registering for the Google APAC 2015 University Graduates Test!
+September 3, 2014
+Saheb Preet Singh
+9/3, 5:49pm
+Saheb Preet Singh
+nahi dekha bhai
+ha ye google ke liye h apply karde
+thanks bhai
+Saheb Preet Singh
+9/3, 5:59pm
+Saheb Preet Singh
+ali over ho gya contest to
+Mohd Ali
+9/3, 6:25pm
+Mohd Ali
+but sept15, oct13 n nov 10 still there.............
+Saheb Preet Singh
+9/3, 6:26pm
+Saheb Preet Singh
+round b to shayad round a pass vale hi de payenge
+tu ek baar try kar register kar ke dekh
+agar participate karne ki anumati ho to mereko bhi batayiyo
+Mohd Ali
+9/3, 6:27pm
+Mohd Ali
+ok...
+Mohd Ali
+9/3, 6:28pm
+Mohd Ali
+http://www.codechef.com/problems/MUFFINS3 .............yar ye prob statement kuch samaj nhi aa rhi...........
+
+Packaging Cupcakes
+www.codechef.com
+Now that Chef has finished baking and frosting his cupcakes, it's time to package them. Chef has N cupcakes, and needs to decide how many cupcakes to place in each package. Each package must contain the same number of cupcakes. Chef will choose an integer A between 1 and N, inclusive, and place exac…
+Saheb Preet Singh
+9/3, 6:29pm
+Saheb Preet Singh
+konsi line samajh nahi aa rahi
+?
+Mohd Ali
+9/3, 6:30pm
+Mohd Ali
+isme o/p kya produce krna h......
+Saheb Preet Singh
+9/3, 6:31pm
+Saheb Preet Singh
+input kya h smajh aya
+???
+Mohd Ali
+9/3, 6:32pm
+Mohd Ali
+yah.......
+Saheb Preet Singh
+9/3, 6:32pm
+Saheb Preet Singh
+kya h input
+Mohd Ali
+9/3, 6:33pm
+Mohd Ali
+no of test cases n 2nd is no of cupcakes..........
+Saheb Preet Singh
+9/3, 6:33pm
+Saheb Preet Singh
+unko pack karna h
+Mohd Ali
+9/3, 6:34pm
+Mohd Ali
+how?........
+Saheb Preet Singh
+9/3, 6:34pm
+Saheb Preet Singh
+such that each contain same number of cakes
+Mohd Ali
+9/3, 6:34pm
+Mohd Ali
+gimme an eg..........
+Saheb Preet Singh
+9/3, 6:35pm
+Saheb Preet Singh
+yar mujhe bhi smajh nahi aa raha
+sun abhi muje kahi jana h
+baad mein dekh dunga
+nahi to usict coders par explain karde3
+sorry post karde
+koi na koi reply kar dega jaldi
+Mohd Ali
+9/3, 6:36pm
+Mohd Ali
+ok......
+September 4, 2014
+Saheb Preet Singh
+9/4, 6:17pm
+Saheb Preet Singh
+ha ali maine check kiya tha apac google mein kar sakte h abhi bhi
+September 5, 2014
+Mohd Ali
+9/5, 11:48am
+Mohd Ali
+mje apna cv banana h .......apna cv mail karde jo best ho.......
+September 7, 2014
+Saheb Preet Singh
+9/7, 2:08pm
+Saheb Preet Singh
+download
+sahebpreet.pdf
+September 8, 2014
+Mohd Ali
+9/8, 5:08pm
+Mohd Ali
+ax+by+cz+d=0.......... then what is the minimum distance of z axis from x and from y .......????
+Saheb Preet Singh
+9/8, 5:10pm
+Saheb Preet Singh
+ye kyun kar raha h 
+0
+x and y always have 0 distance from z axis
+Mohd Ali
+9/8, 5:11pm
+Mohd Ali
+tcs ke prev year question me tha....
+Saheb Preet Singh
+9/8, 5:11pm
+Saheb Preet Singh
+kaha se pad raha h ye questions?
+answer kya h
+??
+Mohd Ali
+9/8, 5:11pm
+Mohd Ali
+not given.........some r given and some not..........
+tje abi mail karta hu...........
+Saheb Preet Singh
+9/8, 5:12pm
+Saheb Preet Singh
+ok 
+Mohd Ali
+9/8, 5:17pm
+Mohd Ali
+I've mailed you have you got.......
+Saheb Preet Singh
+9/8, 5:18pm
+Saheb Preet Singh
+ha mil gaye thank you bhai
+Mohd Ali
+9/8, 5:53pm
+Mohd Ali
+In school there are some bicycles and 4wheeler wagons.one Tuesday there are 190 wheels in the campus. How many bicycles are there?    Ans: 15
+How????
+Saheb Preet Singh
+9/8, 5:54pm
+Saheb Preet Singh
+options kya kya the??
+Mohd Ali
+9/8, 5:54pm
+Mohd Ali
+there is no option only ans
+I think.....ye question heat n trial se hi hoga....
+Saheb Preet Singh
+9/8, 5:56pm
+Saheb Preet Singh
+ok fir to bahut sare answers ho sakte h
+it can be 17 also
+Mohd Ali
+9/8, 5:58pm
+Mohd Ali
+54:lion and tiger r there.lion lies on Monday,tues,wends and tiger lies on thurs,frid,sat. 
+Lion said that today is one of those days when I lies. 
+Tiger said that today is one of those days when I lie too.Then find today? 
+Ans: Thursday .........how....?
+Saheb Preet Singh
+9/8, 5:59pm
+Saheb Preet Singh
+question complete h
+??
+options bhi dede h to
+Mohd Ali
+9/8, 5:59pm
+Mohd Ali
+que is comlete but options are not there........
+Saheb Preet Singh
+9/8, 6:02pm
+Saheb Preet Singh
+bhai pata nhi bahut lion se hi puchhna padega
+Mohd Ali
+9/8, 6:03pm
+Mohd Ali
+the given ans is thu.......but how it could be b'coz lion doesnt lie on thu
+Saheb Preet Singh
+9/8, 6:04pm
+Saheb Preet Singh
+ha pata nahi
+muje bhi nahi pata
+Mohd Ali
+9/8, 6:28pm
+Mohd Ali
+. In how many ways can we arrange 7 different things to 3 people. All of them must get atleast one.
+(68-a)(68-b)(68-c)(68-d)(68-e) = 725 ? Find a+b+c+d= ??
+Saheb Preet Singh
+9/8, 6:34pm
+Saheb Preet Singh
+tu kal baith raha h
+??
+eligibility criteria ka koi dikkat to nahi h?
+abi deta hu questions ke answer thodi der mein
+Mohd Ali
+9/8, 6:34pm
+Mohd Ali
+yes........
+Saheb Preet Singh
+9/8, 6:34pm
+Saheb Preet Singh
+form bhar raha hu tcs vala
+September 26, 2014
+Mohd Ali
+9/26, 1:00pm
+Mohd Ali
+how do I remove this error.........
+if you want the prob is: http://www.codechef.com/problems/PALIN
+download
+palim.cpp
+September 26, 2014
+Saheb Preet Singh
+9/26, 5:59pm
+Saheb Preet Singh
+thoda time rukna padega 2 3 din vaise koshish karunga beech mein agar ho jata h to\
+September 27, 2014
+Mohd Ali
+9/27, 1:46pm
+Mohd Ali
+Mohd Ali
+9/27, 1:46pm
+Mohd Ali
+hey have a look at this...:- http://discuss.codechef.com/questions/51789/insomnia-2014-possible-cheating
+INSOMNIA 2014 possible cheating - CodeChef Discuss
+discuss.codechef.com
+In the question "It is Axis time" (INSM01), the solutions submitted by (an accepted as well) cooldragon, ankit_1991, h1t35h, ashwinis, ayusha0711, miteshag, dicoder and almost all of the submitted solutions are word-to-word same. How is this possible? Not even a change of variable name. Please look
+Saheb Preet Singh
+9/27, 3:27pm
+Saheb Preet Singh
+unki rating gir jayegi
+October 20, 2014
+Saheb Preet Singh
+10/20, 5:54pm
+Saheb Preet Singh
+ali kaha h bhai aaj kal?
+milta nahi colg nahi ata kya baat h
+?
+apne mentor sse bhi kuchh baat karle nahi to fali ho jayega project vale subject mein bhi
+October 23, 2014
+Mohd Ali
+10/23, 5:31pm
+Mohd Ali
+bat ki thi chug mam se bol ri=hi thi k sign nhi karegi ..its too late.....phir mene priyanka bhutani mam se bat ki to unhone kha ki anju saha mam se bat karni padegi ...to finally maoday ko saha mam se bat karni h...
+October 25, 2014
+Saheb Preet Singh
+10/25, 4:08pm
+Saheb Preet Singh
+ok
+November 2, 2014
+Mohd Ali
+11/2, 9:51am
+Mohd Ali
+important topics bata de jo pehle padne h......
+kis book se padne h vo b bata dena......
+November 3, 2014
+Saheb Preet Singh
+11/3, 12:19pm
+Saheb Preet Singh
+ok
+November 3, 2014
+Mohd Ali
+11/3, 9:03pm
+Mohd Ali
+warehouse ka syllabus bata dena......
+November 4, 2014
+Saheb Preet Singh
+11/4, 6:13pm
+Saheb Preet Singh
+Vahi h jo shine ne daal rakha h paulraj punia k 10 11 15 16
+November 10, 2014
+Mohd Ali
+11/10, 8:48pm
+Mohd Ali
+clj gaya tha aaj.........
+November 11, 2014
+Saheb Preet Singh
+11/11, 2:38pm
+Saheb Preet Singh
+nahi bhai
+aaj bhi nahi gya 
+Mohd Ali
+11/11, 2:44pm
+Mohd Ali
+me 2.
+November 12, 2014
+Saheb Preet Singh
+11/12, 3:00pm
+Saheb Preet Singh
+http://www.glassdoor.com/Interview/Quovantis-Technologies-Interview-Questions-E725838.htm
+Quovantis Technologies Interview Questions
+www.glassdoor.com
+Quovantis Technologies interview details: 8 interview questions and 8 interview reviews posted anonymously by Quovantis Technologies interview candidates.
+November 14, 2014
+Saheb Preet Singh
+11/14, 1:29pm
+Saheb Preet Singh
+https://www.zomato.com/trialweek
+
+Trial Week at Zomato
+www.zomato.com
+Zomato is techruiting. Spend a week at Zomato, working with our tech team on real, live projects that are a part of our development pipeline.
+Saheb Preet Singh
+11/14, 1:32pm
+Saheb Preet Singh
+kal ke interview ke liye best of luck
+Saheb Preet Singh
+11/14, 1:32pm
+Saheb Preet Singh
+and http://www.quovantis.com/our-work.html
+Our work | Quovantis Technologies
+www.quovantis.com
+Quovantis Technologies build products in highly collaborative and agile manner to deliver the maximum value to our customers
+Saheb Preet Singh
+11/14, 1:33pm
+Saheb Preet Singh
+look at quovantis website achhe se
+you should know about the client they serve
+what they work
+and how they work
+November 16, 2014
+Mohd Ali
+11/16, 10:01am
+Mohd Ali
+mam ne jo acn k topics bataye the vo msg kar dena......
+mje apna resume thoda acha karna padega.....quovantis me coding round me ek question tha easy sa wo to kar diya lekin unho ne resume k base pe select kiya......or unhe 2 ya 3 hi chahiye the........
+November 17, 2014
+Saheb Preet Singh
+11/17, 2:42pm
+Saheb Preet Singh
+hi
+vo acn topics kar dunga abhi h nahi
+Mohd Ali
+11/17, 2:43pm
+Mohd Ali
+sir se bat kar li.....
+Saheb Preet Singh
+11/17, 2:43pm
+Saheb Preet Singh
+nhi
+main kal hi karaunga
+Mohd Ali
+11/17, 2:43pm
+Mohd Ali
+kk
+how to istall xampp on kubuntu......
+Saheb Preet Singh
+11/17, 2:44pm
+Saheb Preet Singh
+xampp as in aisa koi stack ata nahi linux mein
+or ata bhi h to faydemand nahi h
+after all linux pe ane ke baad bhi configuration na mile to kya fayda
+agar php chalan h to do this
+sudo apt-get install apache2
+sudo apt-get install php5
+sudo apt-get install mysql-client
+Mohd Ali
+11/17, 2:45pm
+Mohd Ali
+are ha yad a gaya.........
+Saheb Preet Singh
+11/17, 2:45pm
+Saheb Preet Singh
+ok
+Mohd Ali
+11/17, 2:45pm
+Mohd Ali
+or bata.....
+Saheb Preet Singh
+11/17, 2:45pm
+Saheb Preet Singh
+or vo quovantis mein kya hua?
+coding round mein bahr hua tha tu?
+Mohd Ali
+11/17, 2:46pm
+Mohd Ali
+unhone bas ek hi banda lena tha vo b mca ka......
+kyuki the want to join from dec...
+Saheb Preet Singh
+11/17, 2:47pm
+Saheb Preet Singh
+koi nahi experience hogya
+tu vaise konse round mein bahr hua tha
+???
+Mohd Ali
+11/17, 2:48pm
+Mohd Ali
+bas vo 3 commands se ho jayega ya or kuch b chahiye...
+Saheb Preet Singh
+11/17, 2:48pm
+Saheb Preet Singh
+or bhi chahiye
+sudo apt-get install mysql-server
+Mohd Ali
+11/17, 2:49pm
+Mohd Ali
+sab bata de....
+mje php pe project banana h.....
+bas ye 4 command...
+Saheb Preet Singh
+11/17, 2:50pm
+Saheb Preet Singh
+sudo apt-ge install libapache2-mod-php5
+check kar liyo shayad ek adha component reh na gya ho agar na chale to bataiyo
+Mohd Ali
+11/17, 2:52pm
+Mohd Ali
+kk
+wo sab to ho gaya koi problem nhi ayi ....
+ab ye bata run kese karna h.....
+Saheb Preet Singh
+11/17, 2:57pm
+Saheb Preet Singh
+cd /var/www
+and then ls
+output bata?
+run localhost in your browser and
+vo output bhi batana
+Mohd Ali
+11/17, 2:58pm
+Mohd Ali
+cd /var/www and ls ka o/p html h.....
+Saheb Preet Singh
+11/17, 2:58pm
+Saheb Preet Singh
+or kuch nahi h?
+Mohd Ali
+11/17, 2:58pm
+Mohd Ali
+nups....
+Saheb Preet Singh
+11/17, 2:59pm
+Saheb Preet Singh
+browser mein kya aya?
+Mohd Ali
+11/17, 2:59pm
+Mohd Ali
+samja nhi.....
+Saheb Preet Singh
+11/17, 3:00pm
+Saheb Preet Singh
+localhost type karne par
+Mohd Ali
+11/17, 3:01pm
+Mohd Ali
+localhost browser me type karna h ya konsole pe...
+Saheb Preet Singh
+11/17, 3:01pm
+Saheb Preet Singh
+browser mein
+Mohd Ali
+11/17, 3:03pm
+Mohd Ali
+ek page aya h..
+Saheb Preet Singh
+11/17, 3:03pm
+Saheb Preet Singh
+it works likha h?
+Mohd Ali
+11/17, 3:03pm
+Mohd Ali
+yups.....
+or cofig b likha h...
+Saheb Preet Singh
+11/17, 3:04pm
+Saheb Preet Singh
+ok
+do cd html
+then
+and start coding!! 
+abhi mysql  ko check karna padega
+koi program bana kar dekhiyo agar koi problem aye to
+Mohd Ali
+11/17, 3:10pm
+Mohd Ali
+file save kaha karni h....jese windows me htlocalhost me karte the....
+Saheb Preet Singh
+11/17, 3:10pm
+Saheb Preet Singh
+html folder mein
+tip: har project ke liye nahi directory bana liyo
+for better results age bachne ke liye
+do sudo mkdir project_name in the html folder
+and then sudo chown -R user_name projectt_name
+fir cd karke kuchh bhi kar sakta h
+jyada sudo ka istemal apke computer ke liye hanikarak ho sakta h
+Mohd Ali
+11/17, 3:18pm
+Mohd Ali
+sudo chown -R user_name projectt_name html directory me  karna h ya phir  project_name directory me jake.....
+Saheb Preet Singh
+11/17, 3:18pm
+Saheb Preet Singh
+html mein h
+i
+Mohd Ali
+11/17, 3:19pm
+Mohd Ali
+ha......
+me abi html me hu
+or mene usme directory bana li h...
+chown wali command kaha dalni h....
+us directory me ja ke ya phir yahi html dir me....
+sorry 2 trouble u...
+Saheb Preet Singh
+11/17, 3:25pm
+Saheb Preet Singh
+html mein hi
+Mohd Ali
+11/17, 3:25pm
+Mohd Ali
+kk...
+Mohd Ali
+11/17, 3:41pm
+Mohd Ali
+mene html me test directory bana k ek test.php file banai h....ub is file ko run kese karna h....
+Saheb Preet Singh
+11/17, 3:41pm
+Saheb Preet Singh
+manmeet tere sath h?
+and vo chal gya?
+Mohd Ali
+11/17, 3:41pm
+Mohd Ali
+manmeet mere sath nhi h...
+me girish k room pe hu.....library me net nhi a rha tha ...
+Saheb Preet Singh
+11/17, 3:43pm
+Saheb Preet Singh
+in browser
+Mohd Ali
+11/17, 3:45pm
+Mohd Ali
+broser me test.php type karne se ho jayega kya?
+November 18, 2014
+Saheb Preet Singh
+11/18, 10:00am
+Saheb Preet Singh
+sorry yar vo internet problem ho gayi thi
+type localhost/test/test.php and you will get it
+November 18, 2014
+Saheb Preet Singh
+11/18, 1:56pm
+Saheb Preet Singh
+http://www.cognizant.com/careers oye cognizant par search kar le iski hoti h offcampus
+
+Cognizant Careers, IT Career Opportunities and Technology Jobs Worldwide
+www.cognizant.com
+Explore worldwide IT career opportunities at Cognizant and advance your career at one of the fastest-growing IT business, outsourcing and consulting companies in the world.
+Saheb Preet Singh
+11/18, 1:56pm
+Saheb Preet Singh
+4lpa package h
+November 19, 2014
+Saheb Preet Singh
+11/19, 9:47am
+Saheb Preet Singh
+ali kaha h?
+Mohd Ali
+11/19, 9:47am
+Mohd Ali
+at home...
+Saheb Preet Singh
+11/19, 9:48am
+Saheb Preet Singh
+bol ali ruk kyun gaya
+Mohd Ali
+11/19, 9:49am
+Mohd Ali
+tu kaha h....
+Saheb Preet Singh
+11/19, 9:54am
+Saheb Preet Singh
+ok main colg
+Mohd Ali
+11/19, 9:55am
+Mohd Ali
+file chek ho gayi ya honi h... soft testing ki
+Saheb Preet Singh
+11/19, 9:55am
+Saheb Preet Singh
+ha honi to  h par colg mein door door tak koi dikhai nahi de raha or maine banayi bhi nahi h pata nahi kya hota h
+Mohd Ali
+11/19, 9:56am
+Mohd Ali
+November 19, 2014
+Mohd Ali
+11/19, 4:50pm
+Mohd Ali
+konse 2 topics the jo soft wali me'am ne class me announce kiye the....or assignment or test k liye bola tha.....
+Saheb Preet Singh
+11/19, 4:51pm
+Saheb Preet Singh
+pata nahi maine note nahi kiye
+Mohd Ali
+11/19, 4:52pm
+Mohd Ali
+aaj file submit hui kya group b ki?
+Saheb Preet Singh
+11/19, 4:52pm
+Saheb Preet Singh
+ha
+Mohd Ali
+11/19, 4:53pm
+Mohd Ali
+kitne prac kiye tumhare group me.....
+Saheb Preet Singh
+11/19, 4:53pm
+Saheb Preet Singh
+11
+maine file nahi karayi kal hi karaunga
+Mohd Ali
+11/19, 4:55pm
+Mohd Ali
+Saheb Preet Singh
+11/19, 5:52pm
+Saheb Preet Singh
+ali file chahiye tereko
+mail  kardi maine vaise
+check karle
+November 21, 2014
+Saheb Preet Singh
+11/21, 2:58pm
+Saheb Preet Singh
+send me the link from where you downloaded facebook
+November 22, 2014
+Mohd Ali
+11/22, 12:09am
+Mohd Ali
+http://www.phptpoint.com/projects/facebook/
+
+facebook project in php
+www.phptpoint.com
+facebook project in php download free source code with project report
+November 22, 2014
+Saheb Preet Singh
+11/22, 8:31pm
+Saheb Preet Singh
+ok
+Saheb Preet Singh
+11/22, 8:36pm
+Saheb Preet Singh
+its given here how to make the database what you have to do is just go to localhost/phpmyadmin and click import after logging in, after that select from file and select the localhost.sql file and you are done with the db part.
+Note:- there may be a case that phpmyadmin is not installed in your system, in such cases do sudo apt-get install phpmyadmin before.
+if you get any further problems message here
+November 24, 2014
+Saheb Preet Singh
+11/24, 11:33am
+Saheb Preet Singh
+bhai vo case study deni h 26 tak datawarehouse vali madam ko baat karle sodera or dabas se kya karna h uska
+there?
+Mohd Ali
+11/24, 11:35am
+Mohd Ali
+I've installed phpmyadmin but when I'm typing localhost/phpmyadmin in browser eror msg comin as.......Not Found
+The requested URL /phpmyadmin was not found on this server.
+Apache/2.4.7 (Ubuntu) Server at localhost Port 80
+Saheb Preet Singh
+11/24, 11:37am
+Saheb Preet Singh
+do sudo kate /etc/apache2/apache.conf in konsole
+and then add 
+ Include /etc/phpmyadmin/apache.conf
+in the file
+finally do sudo service apache2 restart after saving the file
+Mohd Ali
+11/24, 11:38am
+Mohd Ali
+assignment kya zyada bada h ya thoda bahut se likh k dena....
+Saheb Preet Singh
+11/24, 11:39am
+Saheb Preet Singh
+thoda sa h actually mail karna h khali
+to katha karlo sab thoda thoda material
+pehle to ek banda links find karle ki kaha kaha information available h and then
+baaki log un links mein kaam baat ke refine karlenge material ko to ho jayega 1 hr mein
+or last mein ek banda use compile kar dega
+ek document mein
+kal summer training mein kya de raha h tu?
+Mohd Ali
+11/24, 11:43am
+Mohd Ali
+abhishek ne mera naam clj web m dal diya h...wahi de duga....
+Saheb Preet Singh
+11/24, 11:43am
+Saheb Preet Singh
+ok great
+mama zindabaad
+Mohd Ali
+11/24, 11:44am
+Mohd Ali
+when i type.......sudo service apache2 restart .......the following o/p comes.......
+ * Restarting web server apache2                                                                                                                                                                AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1 ali\n127.0.0.1 localhost. Set the 'ServerName' directive globally to suppress this message
+Saheb Preet Singh
+11/24, 11:44am
+Saheb Preet Singh
+great
+now type localhost/phpmyadmin in browser
+will work
+Mohd Ali
+11/24, 11:46am
+Mohd Ali
+no the same msg comes in browser
+Saheb Preet Singh
+11/24, 11:46am
+Saheb Preet Singh
+you added the line properly
+??
+what have you added paste here
+Mohd Ali
+11/24, 11:47am
+Mohd Ali
+Include /etc/phpmyadmin/apache.conf
+Saheb Preet Singh
+11/24, 11:48am
+Saheb Preet Singh
+paste the output of ls /etc/phpmyadmin/
+Mohd Ali
+11/24, 11:51am
+Mohd Ali
+bash: /etc/phpmyadmin/: Is a directory
+Saheb Preet Singh
+11/24, 11:51am
+Saheb Preet Singh
+ls bhi lagana tha age
+Mohd Ali
+11/24, 11:52am
+Mohd Ali
+apache.conf  conf.d  config-db.php  config.footer.inc.php  config.header.inc.php  config.inc.php  htpasswd.setup  lighttpd.conf  phpmyadmin.desktop  phpmyadmin.service
+Saheb Preet Singh
+11/24, 11:52am
+Saheb Preet Singh
+sudo service apache2 restart
+dobara kar
+there?
+Mohd Ali
+11/24, 12:00pm
+Mohd Ali
+some prob wid net..
+now its ok
+Saheb Preet Singh
+11/24, 12:01pm
+Saheb Preet Singh
+ok yar case study ka bata kaise divide karna h work ko
+mere paas actually time nahi h
+nahi to main poora hi kar deta
+faltu mein marks jayenge 1 hr ke chakkar mein
+Mohd Ali
+11/24, 12:01pm
+Mohd Ali
+sudo service apache2 restart
+ * Restarting web server apache2                                                                                                                                                                AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1 ali\n127.0.0.1 localhost. Set the 'ServerName' directive globally to suppress this message
+Saheb Preet Singh
+11/24, 12:01pm
+Saheb Preet Singh
+ha theek h
+ab aa raha h outpup
+?
+Mohd Ali
+11/24, 12:02pm
+Mohd Ali
+what is meant by set 'ServerName'
+what is this....Set the 'ServerName' directive globally to suppress this message
+phpmyadmin still not running
+Saheb Preet Singh
+11/24, 12:05pm
+Saheb Preet Singh
+ye aise hi h chhod de isko
+yar dekhna padega koi bahut chhoti problem hi h
+Mohd Ali
+11/24, 12:05pm
+Mohd Ali
+jab clj ayega tab dekh lena......
+Saheb Preet Singh
+11/24, 12:06pm
+Saheb Preet Singh
+configuration bhi galat ho sakti h phpmyadmin ki
+iske liye ekbaar ye try kar
+sudo dpkg-reconfigure phpmyadmin
+or fir saare savalon ka sahi sahi javab diyo 
+Mohd Ali
+11/24, 12:08pm
+Mohd Ali
+o/p is kya select karu yes or no.......the msg is as.....                                                                                                                                                                                      │    
+   │ Since you are reconfiguring phpmyadmin, you may also want to reinstall the database which it uses.                                                                                    │    
+   │                                                                                                                                                                                       │    
+   │ If you wish to reinstall the database for phpmyadmin, you should select this option.  If you do not wish to do so (if you are reconfiguring the package for unrelated reasons), you   │    
+   │ should not select this option.                                                                                                                                                        │    
+   │                                                                                                                                                                                       │    
+   │ Reinstall database for phpmyadmin?                                                                                                                                                    │    
+   │                                                                                                                                                                                       │    
+   │                                                        <Yes>                                                           <No>                                                           │    
+   │
+Saheb Preet Singh
+11/24, 12:09pm
+Saheb Preet Singh
+yes
+Mohd Ali
+11/24, 12:10pm
+Mohd Ali
+after yes......o/p is as.....By default, phpmyadmin will be configured to use a MySQL server through a local unix socket (this provides the best performance). However, if you would like to connect with a different  │  
+ │ method, or to a different server entirely, select an option from the choices below.                                                                                                       │  
+ │                                                                                                                                                                                           │  
+ │ Connection method for MySQL database of phpmyadmin:                                                                                                                                       │  
+ │                                                                                                                                                                                           │  
+ │                                                                                        unix socket                                                                                        │  
+ │                                                                                        tcp/ip                                                                                             │  
+ │                                                                                                                                                                                           │  
+ │                                                                                                                                                                                           │  
+ │                                                         <Ok>                                                             <Cancel>
+Saheb Preet Singh
+11/24, 12:11pm
+Saheb Preet Singh
+unix socket karna h
+Mohd Ali
+11/24, 12:12pm
+Mohd Ali
+now.....Please provide the name of the account with which this package should perform administrative actions.  This user is the one which is able to create new database users.  │          
+          │                                                                                                                                                                          │          
+          │ For MySQL, this is almost always "root".  Note that this is NOT the same as the UNIX login "root".                                                                       │          
+          │                                                                                                                                                                          │          
+          │ Name of the database's administrative user:                                                                                                                              │          
+          │                                                                                                                                                                          │          
+          │ root____________________________________________________________________________________________________________________________________________________________________ │          
+          │                                                                                                                                                                          │          
+          │                                                   <Ok>                                                       <Cancel>                                                    │          
+          │
+Mohd Ali
+11/24, 12:12pm
+Mohd Ali
+root hi rhne du kya?
+Saheb Preet Singh
+11/24, 12:12pm
+Saheb Preet Singh
+ha
+Mohd Ali
+11/24, 12:14pm
+Mohd Ali
+after this it ask 4 psw and after that.......Please provide a MySQL username for phpmyadmin to register with the database server.  A MySQL user is not necessarily the same as a system login, especially if the database is on a      │  
+ │ remote server.                                                                                                                                                                            │  
+ │                                                                                                                                                                                           │  
+ │ This is the user which will own the database, tables and other objects to be created by this installation.  This user will have complete freedom to insert, change or delete data in the  │  
+ │ database.                                                                                                                                                                                 │  
+ │                                                                                                                                                                                           │  
+ │ MySQL username for phpmyadmin:
+Saheb Preet Singh
+11/24, 12:14pm
+Saheb Preet Singh
+koi bhi dede
+kuchh bhi karde root hi karde
+Mohd Ali
+11/24, 12:15pm
+Mohd Ali
+by default phpmyadmin tha mene vahi rehne diya ......now,,,,,,,, Please provide a name for the MySQL database to be used by phpmyadmin.  │                                                           
+                                                          │                                                                         │                                                           
+                                                          │ MySQL database name for phpmyadmin:                                     │                                                           
+                                                          │                                                                         │                                                           
+                                                          │ phpmyadmin_____________________________________________________________ │                                                           
+                                                          │                                                                         │                                                           
+                                                          │                   <Ok>                       <Cancel>
+Saheb Preet Singh
+11/24, 12:16pm
+Saheb Preet Singh
+itna mushkil kyun rehne diya dalde yaha bhi kuchh bhi bas yaad rakhiyo sare usernames and passwords
+Mohd Ali
+11/24, 12:17pm
+Mohd Ali
+Please choose the web server that should be automatically configured to run phpMyAdmin.  │                                                  
+                                                  │                                                                                          │                                                  
+                                                  │ Web server to reconfigure automatically:                                                 │                                                  
+                                                  │                                                                                          │                                                  
+                                                  │    [ ] apache2                                                                           │                                                  
+                                                  │    [ ] lighttpd                                                                          │                                                  
+                                                  │                                                                                          │                                                  
+                                                  │                                                                                          │                                                  
+                                                  │                         <Ok>                             <Cancel>                        │                                                  
+                                                  │
+Saheb Preet Singh
+11/24, 12:18pm
+Saheb Preet Singh
+apache2
+Mohd Ali
+11/24, 12:20pm
+Mohd Ali
+now......there is an error........ An error occurred while installing the database:                                                                                                                                          │  
+ │                                                                                                                                                                                           │  
+ │ ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)                                                                                                       │  
+ │                                                                                                                                                                                           │  
+ │ If at this point you choose "retry", you will be prompted with all the configuration questions once more and another attempt will be made at performing the operation. "retry (skip       │  
+ │ questions)" will immediately attempt the operation again, skipping all questions.  If you choose "abort", the operation will fail and you will need to downgrade, reinstall, reconfigure  │  
+ │ this package, or otherwise manually intervene to continue using it.  If you choose "ignore", the operation will continue, ignoring further errors from dbconfig-common.                   │  
+ │                                                                                                                                                                                           │  
+ │ Next step for database installation:                                                                                                                                                      │  
+ │                                                                                                                                                                                           │  
+ │                                                                                  abort                                                                                                    │  
+ │                                                                                  retry                                                                                                    │  
+ │                                                                                  retry (skip questions)                                                                                   │  
+ │                                                                                  ignore                                                                                                   │  
+ │                                                                                                                                                                                           │  
+ │                                                                                                                                                                                           │  
+ │                                                                                          <Ok>
+Saheb Preet Singh
+11/24, 12:21pm
+Saheb Preet Singh
+skip karde ek baar
+sudo use kiya tha starting mein?
+Mohd Ali
+11/24, 12:23pm
+Mohd Ali
+mdali-999@127
+pehle mdali-999 tha but ek din manmeet ne kuch kiya tha tabse ....mdali-999@127 he.......
+Saheb Preet Singh
+11/24, 12:25pm
+Saheb Preet Singh
+ye kya h
+??
+Mohd Ali
+11/24, 12:25pm
+Mohd Ali
+sudo username
+Saheb Preet Singh
+11/24, 12:27pm
+Saheb Preet Singh
+sudo username nahi main puchh raha tha sudo istemal kiya tha reconfigure karte hue
+abhi dekh vaise khul raha h kya phpmyadmin
+Mohd Ali
+11/24, 12:28pm
+Mohd Ali
+dekhta hu.
+ha kiya tha....but abi b phpmyadmin same error de rha h........
+Saheb Preet Singh
+11/24, 12:30pm
+Saheb Preet Singh
+ok main colg mein dekh lunga fir
+Mohd Ali
+11/24, 12:31pm
+Mohd Ali
+kk
+Saheb Preet Singh
+11/24, 12:43pm
+Saheb Preet Singh
+there?
+Mohd Ali
+11/24, 1:06pm
+Mohd Ali
+yups!
+Saheb Preet Singh
+11/24, 1:06pm
+Saheb Preet Singh
+yar uska bata fir kya karna h assignment ka
+??
+Mohd Ali
+11/24, 1:08pm
+Mohd Ali
+me nitin se baat karta hu.....aaj raat tk sab clear ho jayega.....
+Saheb Preet Singh
+11/24, 1:08pm
+Saheb Preet Singh
+okk
+November 25, 2014
+Mohd Ali
+11/25, 12:45pm
+Mohd Ali
+wo topic dekhe the kya?
+national dw and case study......
+iska matlab kya h national datawarehouse pe case study likhni h kya?
+Saheb Preet Singh
+11/25, 12:48pm
+Saheb Preet Singh
+nahi
+h
+ha
+csr prabhu mein h
+mam keh rahi thi but bahut purani h nahi select karungi
+Mohd Ali
+11/25, 12:49pm
+Mohd Ali
+u know d same toppic is given to one more grp.....
+Saheb Preet Singh
+11/25, 12:50pm
+Saheb Preet Singh
+ha vo sabke topics do do baaar diye h
+November 29, 2014
+Saheb Preet Singh
+11/29, 2:34pm
+Saheb Preet Singh
+chal gayi bhai facebook
+?
+Saheb Preet Singh
+11/29, 5:29pm
+Saheb Preet Singh
+there??
+yar apne computer par iw list ka output paste kariyo
+iw list
+November 30, 2014
+Mohd Ali
+11/30, 7:52pm
+Mohd Ali
+mdali-999@127:~$ iw list
+Wiphy phy0
+        Band 1:
+                Frequencies:
+                        * 2412 MHz [1] (20.0 dBm)
+                        * 2417 MHz [2] (20.0 dBm)
+                        * 2422 MHz [3] (20.0 dBm)
+                        * 2427 MHz [4] (20.0 dBm)
+                        * 2432 MHz [5] (20.0 dBm)
+                        * 2437 MHz [6] (20.0 dBm)
+                        * 2442 MHz [7] (20.0 dBm)
+                        * 2447 MHz [8] (20.0 dBm)
+                        * 2452 MHz [9] (20.0 dBm)
+                        * 2457 MHz [10] (20.0 dBm)
+                        * 2462 MHz [11] (20.0 dBm)
+                        * 2467 MHz [12] (20.0 dBm) (passive scanning, no IBSS)
+                        * 2472 MHz [13] (20.0 dBm) (passive scanning, no IBSS)
+                        * 2484 MHz [14] (20.0 dBm) (passive scanning, no IBSS)
+                Bitrates (non-HT):
+                        * 1.0 Mbps
+                        * 2.0 Mbps (short preamble supported)
+                        * 5.5 Mbps (short preamble supported)
+                        * 11.0 Mbps (short preamble supported)
+                        * 6.0 Mbps
+                        * 9.0 Mbps
+                        * 12.0 Mbps
+                        * 18.0 Mbps
+                        * 24.0 Mbps
+                        * 36.0 Mbps
+                        * 48.0 Mbps
+                        * 54.0 Mbps
+        Band 2:
+                Frequencies:
+                        * 5170 MHz [34] (disabled)
+                        * 5180 MHz [36] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5190 MHz [38] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5200 MHz [40] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5210 MHz [42] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5220 MHz [44] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5230 MHz [46] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5240 MHz [48] (20.0 dBm) (passive scanning, no IBSS)                                                                                                                  
+                        * 5260 MHz [52] (disabled)                                                                                                                                              
+                        * 5280 MHz [56] (disabled)                                                                                                                                              
+                        * 5300 MHz [60] (disabled)                                                                                                                                              
+                        * 5320 MHz [64] (disabled)
+                        * 5500 MHz [100] (disabled)
+                        * 5520 MHz [104] (disabled)
+                        * 5540 MHz [108] (disabled)
+                        * 5560 MHz [112] (disabled)
+                        * 5580 MHz [116] (disabled)
+                        * 5600 MHz [120] (disabled)
+                        * 5620 MHz [124] (disabled)
+                        * 5640 MHz [128] (disabled)
+                        * 5660 MHz [132] (disabled)
+                        * 5680 MHz [136] (disabled)
+                        * 5700 MHz [140] (disabled)
+                        * 5745 MHz [149] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5765 MHz [153] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5785 MHz [157] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5805 MHz [161] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5825 MHz [165] (20.0 dBm) (passive scanning, no IBSS)
+                        * 5920 MHz [184] (disabled)
+                        * 5940 MHz [188] (disabled)
+                        * 5960 MHz [192] (disabled)
+                        * 5980 MHz [196] (disabled)
+                        * 6000 MHz [200] (disabled)
+                        * 6020 MHz [204] (disabled)
+                        * 6040 MHz [208] (disabled)
+                        * 6060 MHz [212] (disabled)
+                        * 6080 MHz [216] (disabled)
+                Bitrates (non-HT):
+                        * 6.0 Mbps
+                        * 9.0 Mbps
+                        * 12.0 Mbps
+                        * 18.0 Mbps
+                        * 24.0 Mbps
+                        * 36.0 Mbps
+                        * 48.0 Mbps
+                        * 54.0 Mbps
+        max # scan SSIDs: 1
+        max scan IEs length: 0 bytes
+        Coverage class: 0 (up to 0m)
+        Supported Ciphers:
+                * WEP40 (00-0f-ac:1)
+                * WEP104 (00-0f-ac:5)
+                * TKIP (00-0f-ac:2)
+                * CCMP (00-0f-ac:4)
+                * CMAC (00-0f-ac:6)
+        Available Antennas: TX 0 RX 0
+        Supported interface modes:
+                 * IBSS
+                 * managed
+        software interface modes (can always be added):
+        interface combinations are not supported
+        Supported commands:
+                 * set_interface
+                 * new_key
+                 * join_ibss
+                 * set_pmksa
+                 * del_pmksa
+                 * flush_pmksa
+                 * connect
+                 * disconnect
+mdali-999@127:~$
+December 1, 2014
+Mohd Ali
+12/1, 10:09am
+Mohd Ali
+EWS interview details  http://www.ipu.ac.in/studentswelf/ntews271114.pdf
+www.ipu.ac.in
+www.ipu.ac.in
+Mohd Ali
+12/1, 10:38am
+Mohd Ali
+practical date sheet ya ya usse related link ho to bata......
+December 1, 2014
+Saheb Preet Singh
+12/1, 2:07pm
+Saheb Preet Singh
+thanks yar
+Mohd Ali
+12/1, 2:08pm
+Mohd Ali
+linux me blue stack kese install kara jaye
+Saheb Preet Singh
+12/1, 2:09pm
+Saheb Preet Singh
+blue stack would not work fine
+virtual box mein iso daal le android ki
+oye student welfare ka pehle cs rai nahi tha na?
+Mohd Ali
+12/1, 2:12pm
+Mohd Ali
+what?
+Saheb Preet Singh
+12/1, 2:12pm
+Saheb Preet Singh
+head
+Mohd Ali
+12/1, 2:13pm
+Mohd Ali
+pata nhi.... y?
+abhishek ko what's app pe is no. pe contact kar.....9953843080
+Saheb Preet Singh
+12/1, 2:14pm
+Saheb Preet Singh
+ok kya ho gya kuchh khas bat h?
+Mohd Ali
+12/1, 2:16pm
+Mohd Ali
+nhi bas usne bola h......
+kya android app bluestack se access nhi kar sakte......in linux
+Saheb Preet Singh
+12/1, 2:18pm
+Saheb Preet Singh
+bluestack is not made for linux
+actually
+December 15, 2014
+Mohd Ali
+12/15, 2:09pm
+Mohd Ali
+saheb vo fb chal gayi thi..........
+Saheb Preet Singh
+12/15, 2:09pm
+Saheb Preet Singh
+great 
+Mohd Ali
+12/15, 2:09pm
+Mohd Ali
+its working fine..
+but ab linux me kuch prob aa gyi h......
+Saheb Preet Singh
+12/15, 2:10pm
+Saheb Preet Singh
+what?
+Mohd Ali
+12/15, 2:10pm
+Mohd Ali
+kal dekh kega ?
+Saheb Preet Singh
+12/15, 2:10pm
+Saheb Preet Singh
+ha dekh lunga
+December 21, 2014
+Saheb Preet Singh
+12/21, 12:48pm
+Saheb Preet Singh
+http://www.pcworld.com/article/2842962/kubuntu-15-04-embraces-kdes-plasma-5-desktop.html
+January 3
+Saheb Preet Singh
+1/3, 3:29pm
+Saheb Preet Singh
+ali startx se chal raha h kya abhi bhi?
+Mohd Ali
+1/3, 3:30pm
+Mohd Ali
+ha chal rha h
+Saheb Preet Singh
+1/3, 3:31pm
+Saheb Preet Singh
+seedha nahi chalta?
+Mohd Ali
+1/3, 3:32pm
+Mohd Ali
+nhi......
+startx se hi chalana padta h
+Saheb Preet Singh
+1/3, 3:38pm
+Saheb Preet Singh
+jab ayega to dikha diyo ek baar
+Mohd Ali
+1/3, 3:40pm
+Mohd Ali
+kk
+January 8
+Mohd Ali
+1/8, 2:35pm
+Mohd Ali
+ek baat bata bro php5 mysql etc wo sub component dobara se install karne me kitna data lag jayega......
+Saheb Preet Singh
+1/8, 2:35pm
+Saheb Preet Singh
+100 mb se kam
+but problems ayengi
+Mohd Ali
+1/8, 2:36pm
+Mohd Ali
+mene linux reinstall kiya he.......
+tab b prob ayegi kya?
+Saheb Preet Singh
+1/8, 2:37pm
+Saheb Preet Singh
+ha ab to ayegi hi 
+karle install jab sudo apt-get karega to vo batayega kitna mb download hone vala h
+Mohd Ali
+1/8, 2:38pm
+Mohd Ali
+me soch raha the ki agar 200-250 mb lagta h to ghar se ki kar leta hu nhi to clj se
+Saheb Preet Singh
+1/8, 2:39pm
+Saheb Preet Singh
+start kar bata dega vo
+sare package ke naam likh diyo sudo apt-get install mein vo
+calculate karke batadega kitna data download hoga
+Mohd Ali
+1/8, 2:39pm
+Mohd Ali
+ok
+chefstone wala que yad he  discuss karna tha?
+mje sirf 30 pts mile h uspe
+Saheb Preet Singh
+1/8, 2:43pm
+Saheb Preet Singh
+muje bhi 
+i dont know whats the problem thoda sochunga baad mein
+Mohd Ali
+1/8, 4:15pm
+Mohd Ali
+chefstone ho gaya I just replace long with long long.......
+January 9
+Saheb Preet Singh
+1/9, 2:12pm
+Saheb Preet Singh
+great 
+Saheb Preet Singh
+1/9, 3:12pm
+Saheb Preet Singh
+yar ek suggestion chahiye tha vo jo bug discuss kiya tha us din library mein fit window to page vala uske liye ek shortcut decide karna h koi suggest kar
+okular mein
+January 12
+Saheb Preet Singh
+1/12, 5:25pm
+Saheb Preet Singh
+http://www.letsintern.com/students/member/Job?jobId=26163&invitation=1
+January 20
+Saheb Preet Singh
+1/20, 3:15pm
+Saheb Preet Singh
+vaise healthkart ke bare mein research kar thoda job ke liye theek lag rahi h glassdoor se
+January 23
+Mohd Ali
+1/23, 3:44pm
+Mohd Ali
+healthkart to online marketplace h I dont think ki internship degi?
+kai dino se net nhi tha  isliye baat nhi ho payi.......
+clj gaya kya ek b bar?
+Saheb Preet Singh
+1/23, 6:17pm
+Saheb Preet Singh
+Main job ki baat kar raha hu
+Gaya tha or tu kaha rehta h aaj kal placements main kyun nahi baith raha?
+January 24
+Mohd Ali
+1/24, 12:40pm
+Mohd Ali
+list me mera naam hi nhi hota to kase baith sakta hu?
+Saheb Preet Singh
+1/24, 1:02pm
+Saheb Preet Singh
+baat kara kar na tpo se
+puchha kar agar vo kuchh kar sakta h to
+and suna h last time kuchh logo ko allow kar diya tha internet times mein jinka naam nahi tha
+ye sab tpo ke haath mein hota h siir kha jaya kar uska
+nahi to placement nahi hoti
+imean hogi
+January 24
+Mohd Ali
+1/24, 5:03pm
+Mohd Ali
+tuesday ko bat kar ke dekhta hu
+Saheb Preet Singh
+1/24, 5:30pm
+Saheb Preet Singh
+ok
+March 11
+Mohd Ali
+3/11, 5:47pm
+Mohd Ali
+when I'm importing a .sql file in phpmyadmin the following error is coming....................
+Error
+SQL query:
+--
+-- Database: `faceback`
+--
+-- --------------------------------------------------------
+--
+-- Table structure for table `admin_info`
+--
+CREATE TABLE IF NOT EXISTS  `admin_info` (
+ `Username` VARCHAR( 200 ) NOT NULL ,
+ `Password` VARCHAR( 200 ) NOT NULL
+) ENGINE = INNODB DEFAULT CHARSET = latin1;
+MySQL said: Documentation
+#1046 - No database selected 
+I've done it before ......tab to koi error nhi thi ....pata nhi ab kya ho gya....ans mile to batana.......
+March 11
+Saheb Preet Singh
+3/11, 9:40pm
+Saheb Preet Singh
+Pehle koi db select kar phpmyadmin mein and then select import
+Mohd Ali
+3/11, 11:15pm
+Mohd Ali
+kya phle db create kana hoga? and then we have to select that db......
+Mohd Ali
+3/11, 11:29pm
+Mohd Ali
+thanks ho gaya?
+March 26
+Saheb Preet Singh
+3/26, 12:03pm
+Saheb Preet Singh
+hi
+Mohd Ali
+3/26, 12:09pm
+Mohd Ali
+hi...
+Saheb Preet Singh
+3/26, 12:09pm
+Saheb Preet Singh
+kaha par h?
+Mohd Ali
+3/26, 12:09pm
+Mohd Ali
+at home
+Saheb Preet Singh
+3/26, 12:09pm
+Saheb Preet Singh
+ok yar is group mein ek post dalna h https://www.facebook.com/groups/ggsipuplacementcell/
+
+GGSIPU PLACEMENT CELL
+2,009 members
+Saheb Preet Singh
+3/26, 12:10pm
+Saheb Preet Singh
+dal dega
+internship ka h
+tu bhi kar liyo agar karni ho to
+Mohd Ali
+3/26, 12:10pm
+Mohd Ali
+konse group pe
+Saheb Preet Singh
+3/26, 12:11pm
+Saheb Preet Singh
+ggsipu placement cell
+maine pehle bhi dala tha ek bar ye sochenge spam kar raha h
+Saheb Preet Singh
+3/26, 12:19pm
+Saheb Preet Singh
+karega>
+?
+du material?
+Mohd Ali
+3/26, 12:24pm
+Mohd Ali
+ha dede.....
+abi daal deta hu
+Saheb Preet Singh
+3/26, 12:25pm
+Saheb Preet Singh
+Internship Opportunity ( Java Developer Intern )
+Skills required:
+1. Basic knowledge of Java is must.
+2. A little background of web development - (Spring, Hibernate, JSP etc) would be a positive.
+Duration - nearly 3 month. (April - June)
+The intern is required to work from office based in Gurgaon - (5 min walk from Huda City Centre Metro Station). A monthly stipend upto 20,000 would be given depending on the work ability of the candidate.
+Please contact Nihal Sharma on +91-7838178544 (nihaldps@gmail.com)
+The job description can be found here : - http://www.letsintern.com/internship/IT-internships/TrendSpry-com/Java-Web-Developer-Intern/30524
+
+Java Web Developer (Intern)
+www.letsintern.com
+IT, Web Development internships in TrendSpry.com at Gurgaon. Last date to apply Mar 31, 2015 - Recurring.
+Mohd Ali
+3/26, 12:27pm
+Mohd Ali
+the message comes as.....
+Your post has been submitted and is pending approval by an admin.
+Saheb Preet Singh
+3/26, 12:27pm
+Saheb Preet Singh
+ok
+thanks
+tu agar free ho to try kr sakta h
+ismein
+but muje nahi lagta vo manega ajeeb banda h thoda
+Mohd Ali
+3/26, 12:27pm
+Mohd Ali
+ha karuga try
+Saheb Preet Singh
+3/26, 12:28pm
+Saheb Preet Singh
+jitna ata ho utna hi boliyo or jitna time de sake utna hi extra mat boliyo
+kuchh bhi
+dikkat ho jayegi nahi to
+Mohd Ali
+3/26, 12:28pm
+Mohd Ali
+ye whi h jha abhi ne try kiya tha
+Saheb Preet Singh
+3/26, 12:28pm
+Saheb Preet Singh
+ha
+but try kar liyo
+koi burai nahi h
+Mohd Ali
+3/26, 12:36pm
+Mohd Ali
+kk
+March 30
+Mohd Ali
+3/30, 5:30pm
+Mohd Ali
+hi...
+Saheb Preet Singh
+3/30, 5:30pm
+Saheb Preet Singh
+hi
+Mohd Ali
+3/30, 5:30pm
+Mohd Ali
+use case diagram banane k liye linux m konsi app hoti h?
+Saheb Preet Singh
+3/30, 5:31pm
+Saheb Preet Singh
+umbrello
+Mohd Ali
+3/30, 5:31pm
+Mohd Ali
+ok
+tune kitna kar liya.....
+file ka kam
+Saheb Preet Singh
+3/30, 5:31pm
+Saheb Preet Singh
+kucch bhi nahi kal dekhunga
+not feeling well
+Mohd Ali
+3/30, 5:32pm
+Mohd Ali
+kal to submit karani h....
+Saheb Preet Singh
+3/30, 5:32pm
+Saheb Preet Singh
+pta nahi dekhi jayegi
+Mohd Ali
+3/30, 5:32pm
+Mohd Ali
+chal mera b stress kam hua thoda?
+me vese start kar rha hu...
+wo sare diagram banane hoge na.....
+or thoda project details?
+Saheb Preet Singh
+3/30, 5:34pm
+Saheb Preet Singh
+ha
+pure na bhi bane to 10 15 page kar diyo bas
+Mohd Ali
+3/30, 5:34pm
+Mohd Ali
+thik h...
+Mohd Ali
+3/30, 5:45pm
+Mohd Ali
+ek problem h...
+Mohd Ali
+3/30, 5:45pm
+Mohd Ali
+http://ideone.com/krc5uf
+
+Ideone.com
+ideone.com
+Ideone is something more than a pastebin; it's an online compiler and debugging tool which allows to compile and run code online in more than 40 programming languages.
+Mohd Ali
+3/30, 5:46pm
+Mohd Ali
+is code me agar line no 11 par agar me if conditon me hashmap[n]!=0 dalta hu to ans galat ata h...... why..?
+oh no ...
+I mean
+hashmap[n]==0 dalta hu to ans galat ata h.....
+Saheb Preet Singh
+3/30, 5:49pm
+Saheb Preet Singh
+sorry yar thoda time lagega muje
+kal tak dekh paunga
+Mohd Ali
+3/30, 5:49pm
+Mohd Ali
+ok...
+Saheb Preet Singh
+3/30, 5:50pm
+Saheb Preet Singh
+abhi abhishek ki last week ki do problems padi h 
+Mohd Ali
+3/30, 5:52pm
+Mohd Ali
+mera no. kab ayega 
+Saheb Preet Singh
+3/30, 5:52pm
+Saheb Preet Singh
+ jaldi ayega
+Mohd Ali
+3/30, 5:53pm
+Mohd Ali
+wese ideone pe thik chal rha h
+mere compiler p galat ata h?
+clj ayega tab dekh lena....
+Saheb Preet Singh
+3/30, 5:54pm
+Saheb Preet Singh
+ok
